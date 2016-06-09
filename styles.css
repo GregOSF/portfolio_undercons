@@ -1,0 +1,47 @@
+
+body {
+	background-color: rgba(44, 62, 80,1.0) !important;
+	text-align: justify;
+}
+
+ul {
+	padding-left: 15px;
+}
+
+.parallax-window {
+	min-height: 400px;
+	background: transparent;
+}
+
+#hero {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+}
+
+#gregJumbo {
+	padding: 150px 0;
+	background: rgba(44, 62, 80,1.0);
+	background-size: cover;
+	color: #fff;
+	margin: 0 auto;
+}
+
+#name {
+	font-size: 72px;
+	color: #fff;
+}
+
+#title {
+	width: 60%; 
+  text-align: center; 
+  border-bottom: 2px solid #fff; 
+  line-height: 0.1em;
+  margin: 20px 0 20px; 
+  display: inline-block;
+}
+
+#title span {
+	background: rgba(44, 62, 80,1.0); 
+  padding:0 10px;
+  color: #fff;
+}
